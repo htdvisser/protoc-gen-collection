@@ -1,3 +1,6 @@
+// Copyright 2021 Hylke Visser
+// SPDX-License-Identifier: Apache-2.0
+
 package gendatafiles
 
 import (
